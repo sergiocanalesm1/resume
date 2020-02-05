@@ -1,3 +1,33 @@
 .html{
     background-color:white;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.banner{
+    padding:20px;
+    background-color: #131A40;
+    text-align: center;
+    color:white;
+    border-radius: 15px;
+    margin-bottom:5px;
+}
+.left-menu{
+    background-color:#17AEBF ;
+    text-align:left;
+    color:white;
+    padding:10px;
+    border-radius: 15px;
+}
+.content{
+    
+}
+.content > who-i-am{
+        
+}
+.footer{
+    padding:10px;
+    background-color: #131A40;
+    text-align: right;
+    color:white;
+    border-radius: 15px;
+    margin-top:5px;
 }
