@@ -16,13 +16,10 @@
     color:white;
     padding:10px;
     border-radius: 15px;
-    border: 5px solid #ddd;
-    
-    
+    border: 5px solid #ddd;   
 }
 .left-menu a{
-    color:white;
-    
+    color:white;  
 }
 .content:hover{
     box-shadow: 0 0 11px rgba(33,33,33,.2); 
@@ -40,13 +37,11 @@
     margin: 10px;
     /*https://www.w3schools.com/css/css3_images.asp*/
     border: 5px solid #ddd;
-    border-radius: 10px;
-    
+    border-radius: 10px;    
 }
 .content img:hover{
     /*https://www.w3schools.com/css/css3_images.asp*/
-    box-shadow: 0 0 2px 1px rgba(0, 140, 186, 0.5);
-    
+    box-shadow: 0 0 2px 1px rgba(0, 140, 186, 0.5);    
 }
 
 .big-img{
@@ -60,8 +55,7 @@
     
     font-size: larger; 
     padding:20px;  
-    justify-content: center;
-    
+    justify-content: center;    
 }
 
 .quote > p{
@@ -70,8 +64,7 @@
 
 
 .project-instance{
-    text-align: center;
-    
+    text-align: center;    
 }
 .footer{
     padding:10px;
