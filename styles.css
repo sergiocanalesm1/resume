@@ -57,17 +57,15 @@
     margin-left: 40px;
 }
 .quote{
-    text-align: center;
+    
     font-size: larger; 
-    margin-top: 5%;
-    
-    
-}
-.quote > h1{
+    padding:20px;  
+    justify-content: center;
     
 }
+
 .quote > p{
-    margin-left: 50%;
+    margin-left: 60%;
 }
 
 
@@ -82,4 +80,9 @@
     color:white;
     border-radius: 15px;
     margin-top:5px;
+}
+.audio{
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
