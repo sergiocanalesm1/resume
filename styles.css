@@ -12,7 +12,8 @@
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }
 .left-menu{
-    background-color:white;
+    /*Change the background color from white to a bonelike color 'cause I felt like it would make a nice contrast*/
+    background-color: #f5ea84;
     text-align:left;
     color:#131A40;
     padding:10px;
@@ -22,6 +23,9 @@
 .left-menu a{
     color:#131A40;  
 }
+/*
+I love the hover animation, gives a lot of live to the site!
+*/
 .content:hover{
     box-shadow: 0 0 11px rgba(33,33,33,.2); 
 }
